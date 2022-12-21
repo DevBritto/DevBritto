@@ -22,8 +22,8 @@ E em breve estarei aprendendo essas tecnologias também:<br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-
+ 
+![DevBritto GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBritto&show_icons=true&theme=tokyonight)
 
 
 
